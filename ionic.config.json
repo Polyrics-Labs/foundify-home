@@ -1,0 +1,7 @@
+{
+  "name": "foundify-home",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
